@@ -1,0 +1,1757 @@
+[
+  {
+    "type": "destination",
+    "destination": "Maroc",
+    "country": "Maroc",
+    "budget_per_day": "30-60€",
+    "best_season": "Mars-Mai",
+    "language": "Arabe, Français",
+    "description": "Découvrez les merveilles du Maroc, de Marrakech à Fez en passant par les plages de l'Atlantique."
+  },
+  {
+    "type": "activite",
+    "destination": "Tokyo",
+    "activity": "Senso-ji Temple",
+    "category": "culture",
+    "duration": "2h",
+    "cost": "gratuit",
+    "description": "Visitez le célèbre temple de Senso-ji à Asakusa, l'un des symboles de Tokyo."
+  },
+  {
+    "type": "destination",
+    "destination": "Italie",
+    "country": "Italie",
+    "budget_per_day": "40-80€",
+    "best_season": "Juin-Août",
+    "language": "Italien",
+    "description": "Explorez l'Italie, de Rome à Venise en passant par la Toscane et ses vignobles."
+  },
+  {
+    "type": "activite",
+    "destination": "Paris",
+    "activity": "Tour Eiffel",
+    "category": "culture",
+    "duration": "1h",
+    "cost": "17€",
+    "description": "Montez au sommet de la Tour Eiffel pour admirer la vue imprenable sur la ville lumière."
+  },
+  {
+    "type": "destination",
+    "destination": "Thaïlande",
+    "country": "Thaïlande",
+    "budget_per_day": "20-40€",
+    "best_season": "Décembre-Février",
+    "language": "Thaï",
+    "description": "Découvrez les plages de sable blanc et les îles paradisiaques de la Thaïlande, ainsi que sa cuisine délicieuse."
+  },
+  {
+    "type": "activite",
+    "destination": "New York",
+    "activity": "Central Park",
+    "category": "nature",
+    "duration": "2h",
+    "cost": "gratuit",
+    "description": "Promenez-vous dans le magnifique Central Park, au cœur de Manhattan."
+  },
+  {
+    "type": "destination",
+    "destination": "Espagne",
+    "country": "Espagne",
+    "budget_per_day": "30-60€",
+    "best_season": "Juin-Août",
+    "language": "Espagnol",
+    "description": "Explorez l'Espagne, de Madrid à Barcelone en passant par la Costa Brava et ses plages."
+  },
+  {
+    "type": "activite",
+    "destination": "Sydney",
+    "activity": "Opéra de Sydney",
+    "category": "culture",
+    "duration": "1h",
+    "cost": "30€",
+    "description": "Visitez l'Opéra de Sydney, l'un des bâtiments les plus emblématiques de la ville."
+  },
+  {
+    "type": "destination",
+    "destination": "Grèce",
+    "country": "Grèce",
+    "budget_per_day": "25-50€",
+    "best_season": "Juin-Août",
+    "language": "Grec",
+    "description": "Découvrez les îles grecques, de Mykonos à Santorin en passant par Athènes et ses ruines antiques."
+  },
+  {
+    "type": "activite",
+    "destination": "Rio de Janeiro",
+    "activity": "Plage de Copacabana",
+    "category": "plage",
+    "duration": "4h",
+    "cost": "gratuit",
+    "description": "Basker sur la célèbre plage de Copacabana, au cœur de Rio de Janeiro."
+  },
+  {
+    "type": "destination",
+    "destination": "Chine",
+    "country": "Chine",
+    "budget_per_day": "20-40€",
+    "best_season": "Mars-Mai",
+    "language": "Mandarin",
+    "description": "Explorez la Chine, de Pékin à Shanghai en passant par la Grande Muraille et les montagnes de Guilin."
+  },
+  {
+    "type": "activite",
+    "destination": "Las Vegas",
+    "activity": "Stratosphere Tower",
+    "category": "attraction",
+    "duration": "1h",
+    "cost": "20€",
+    "description": "Montez au sommet de la Stratosphere Tower pour admirer la vue imprenable sur la ville de Las Vegas."
+  },
+  {
+    "type": "destination",
+    "destination": "Australie",
+    "country": "Australie",
+    "budget_per_day": "50-100€",
+    "best_season": "Décembre-Février",
+    "language": "Anglais",
+    "description": "Découvrez l'Australie, de Sydney à Melbourne en passant par la Grande Barrière de corail et les plages de surf."
+  },
+  {
+    "type": "activite",
+    "destination": "Copenhague",
+    "activity": "Palais de Rosenborg",
+    "category": "culture",
+    "duration": "2h",
+    "cost": "15€",
+    "description": "Visitez le Palais de Rosenborg, un magnifique exemple d'architecture renaissance."
+  },
+  {
+    "type": "destination",
+    "destination": "Russie",
+    "country": "Russie",
+    "budget_per_day": "30-60€",
+    "best_season": "Juin-Août",
+    "language": "Russe",
+    "description": "Explorez la Russie, de Moscou à Saint-Pétersbourg en passant par les lacs et les forêts de Sibérie."
+  },
+  {
+    "type": "activite",
+    "destination": "Vancouver",
+    "activity": "Parc Stanley",
+    "category": "nature",
+    "duration": "2h",
+    "cost": "gratuit",
+    "description": "Promenez-vous dans le magnifique Parc Stanley, au cœur de Vancouver."
+  },
+  {
+    "type": "destination",
+    "destination": "Brésil",
+    "country": "Brésil",
+    "budget_per_day": "25-50€",
+    "best_season": "Décembre-Février",
+    "language": "Portugais",
+    "description": "Découvrez le Brésil, de Rio de Janeiro à São Paulo en passant par les plages de l'Amazonie et les forêts tropicales."
+  },
+  {
+    "type": "activite",
+    "destination": "Berlin",
+    "activity": "Mur de Berlin",
+    "category": "histoire",
+    "duration": "2h",
+    "cost": "gratuit",
+    "description": "Visitez le Mur de Berlin, un symbole de l'histoire récente de l'Allemagne."
+  },
+  {
+    "type": "destination",
+    "destination": "Canada",
+    "country": "Canada",
+    "budget_per_day": "40-80€",
+    "best_season": "Juin-Août",
+    "language": "Anglais, Français",
+    "description": "Explorez le Canada, de Toronto à Vancouver en passant par les montagnes Rocheuses et les lacs du Québec."
+  },
+  {
+    "type": "activite",
+    "destination": "Dubai",
+    "activity": "Burj Khalifa",
+    "category": "attraction",
+    "duration": "1h",
+    "cost": "30€",
+    "description": "Montez au sommet de la Burj Khalifa, le plus haut bâtiment du monde."
+  },
+  {
+    "type": "destination",
+    "destination": "Afrique du Sud",
+    "country": "Afrique du Sud",
+    "budget_per_day": "30-60€",
+    "best_season": "Décembre-Février",
+    "language": "Afrikaans, Anglais",
+    "description": "Découvrez l'Afrique du Sud, de Cape Town à Johannesburg en passant par les réserves de safari et les plages de l'océan Indien."
+  },
+  {
+    "type": "activite",
+    "destination": "Londres",
+    "activity": "British Museum",
+    "category": "culture",
+    "duration": "2h",
+    "cost": "gratuit",
+    "description": "Visitez le British Museum, l'un des plus grands musées du monde."
+  },
+  {
+    "type": "destination",
+    "destination": "Inde",
+    "country": "Inde",
+    "budget_per_day": "15-30€",
+    "best_season": "Octobre-Mars",
+    "language": "Hindi, Anglais",
+    "description": "Explorez l'Inde, de Delhi à Mumbai en passant par les temples de l'Himalaya et les plages de Goa."
+  },
+  {
+    "type": "activite",
+    "destination": "Barcelone",
+    "activity": "Park Güell",
+    "category": "architecture",
+    "duration": "2h",
+    "cost": "10€",
+    "description": "Visitez le Park Güell, un magnifique exemple d'architecture moderniste de Gaudí."
+  },
+  {
+    "type": "destination",
+    "destination": "Maroc",
+    "country": "Maroc",
+    "budget_per_day": "30-60€",
+    "best_season": "Mars-Mai",
+    "language": "Arabe, Français",
+    "description": "Le Maroc est un pays situé au nord-ouest de l'Afrique, connu pour ses paysages diversifiés et sa riche culture."
+  },
+  {
+    "type": "activite",
+    "destination": "Tokyo",
+    "activity": "Senso-ji Temple",
+    "category": "culture",
+    "duration": "2h",
+    "cost": "gratuit",
+    "description": "Le temple Senso-ji est l'un des plus anciens et des plus célèbres de Tokyo, situé dans le quartier d'Asakusa."
+  },
+  {
+    "type": "destination",
+    "destination": "Thaïlande",
+    "country": "Thaïlande",
+    "budget_per_day": "20-40€",
+    "best_season": "Novembre-Février",
+    "language": "Thaï, Anglais",
+    "description": "La Thaïlande est un pays situé en Asie du Sud-Est, connu pour ses plages de sable blanc et ses îles tropicales."
+  },
+  {
+    "type": "activite",
+    "destination": "New York",
+    "activity": "Statue de la Liberté",
+    "category": "histoire",
+    "duration": "3h",
+    "cost": "20$",
+    "description": "La Statue de la Liberté est l'un des symboles les plus emblématiques de New York, située sur l'île de la Liberté."
+  },
+  {
+    "type": "destination",
+    "destination": "Italie",
+    "country": "Italie",
+    "budget_per_day": "40-80€",
+    "best_season": "Juin-Août",
+    "language": "Italien, Anglais",
+    "description": "L'Italie est un pays situé en Europe du Sud, connu pour son histoire riche, ses villes d'art et ses plages méditerranéennes."
+  },
+  {
+    "type": "activite",
+    "destination": "Paris",
+    "activity": "Tour Eiffel",
+    "category": "histoire",
+    "duration": "2h",
+    "cost": "17€",
+    "description": "La Tour Eiffel est l'un des monuments les plus célèbres de Paris, situé dans le 7e arrondissement."
+  },
+  {
+    "type": "destination",
+    "destination": "Espagne",
+    "country": "Espagne",
+    "budget_per_day": "30-60€",
+    "best_season": "Mai-Octobre",
+    "language": "Espagnol, Anglais",
+    "description": "L'Espagne est un pays situé en Europe du Sud, connu pour ses plages, ses villes d'art et sa gastronomie."
+  },
+  {
+    "type": "activite",
+    "destination": "Rio de Janeiro",
+    "activity": "Plage de Copacabana",
+    "category": "loisirs",
+    "duration": "4h",
+    "cost": "gratuit",
+    "description": "La plage de Copacabana est l'une des plus célèbres de Rio de Janeiro, située dans le quartier de Copacabana."
+  },
+  {
+    "type": "destination",
+    "destination": "Chine",
+    "country": "Chine",
+    "budget_per_day": "20-40€",
+    "best_season": "Mars-Mai",
+    "language": "Mandarin, Anglais",
+    "description": "La Chine est un pays situé en Asie de l'Est, connu pour son histoire riche, ses villes modernes et ses paysages diversifiés."
+  },
+  {
+    "type": "activite",
+    "destination": "Sydney",
+    "activity": "Opéra de Sydney",
+    "category": "culture",
+    "duration": "2h",
+    "cost": "50$",
+    "description": "L'Opéra de Sydney est l'un des bâtiments les plus célèbres de la ville, situé sur le port de Sydney."
+  },
+  {
+    "type": "destination",
+    "destination": "Brésil",
+    "country": "Brésil",
+    "budget_per_day": "30-60€",
+    "best_season": "Décembre-Février",
+    "language": "Portugais, Anglais",
+    "description": "Le Brésil est un pays situé en Amérique du Sud, connu pour ses plages, ses villes d'art et sa musique."
+  },
+  {
+    "type": "activite",
+    "destination": "Londres",
+    "activity": "British Museum",
+    "category": "histoire",
+    "duration": "3h",
+    "cost": "gratuit",
+    "description": "Le British Museum est l'un des musées les plus célèbres de Londres, situé dans le quartier de Bloomsbury."
+  },
+  {
+    "type": "destination",
+    "destination": "Australie",
+    "country": "Australie",
+    "budget_per_day": "40-80€",
+    "best_season": "Septembre-Novembre",
+    "language": "Anglais",
+    "description": "L'Australie est un pays situé en Océanie, connu pour ses plages, ses villes modernes et ses paysages diversifiés."
+  },
+  {
+    "type": "activite",
+    "destination": "Barcelone",
+    "activity": "La Sagrada Família",
+    "category": "architecture",
+    "duration": "2h",
+    "cost": "26€",
+    "description": "La Sagrada Família est l'un des monuments les plus célèbres de Barcelone, situé dans le quartier de l'Eixample."
+  },
+  {
+    "type": "destination",
+    "destination": "Allemagne",
+    "country": "Allemagne",
+    "budget_per_day": "30-60€",
+    "best_season": "Juin-Août",
+    "language": "Allemand, Anglais",
+    "description": "L'Allemagne est un pays situé en Europe centrale, connu pour son histoire riche, ses villes d'art et ses paysages diversifiés."
+  },
+  {
+    "type": "activite",
+    "destination": "Rome",
+    "activity": "Colisée",
+    "category": "histoire",
+    "duration": "2h",
+    "cost": "12€",
+    "description": "Le Colisée est l'un des monuments les plus célèbres de Rome, situé dans le centre de la ville."
+  },
+  {
+    "type": "destination",
+    "destination": "Japon",
+    "country": "Japon",
+    "budget_per_day": "40-80€",
+    "best_season": "Mars-Mai",
+    "language": "Japonais, Anglais",
+    "description": "Le Japon est un pays situé en Asie de l'Est, connu pour son histoire riche, ses villes modernes et ses paysages diversifiés."
+  },
+  {
+    "type": "activite",
+    "destination": "San Francisco",
+    "activity": "Golden Gate Bridge",
+    "category": "histoire",
+    "duration": "2h",
+    "cost": "gratuit",
+    "description": "Le Golden Gate Bridge est l'un des ponts les plus célèbres de San Francisco, situé sur la baie de San Francisco."
+  },
+  {
+    "type": "destination",
+    "destination": "Inde",
+    "country": "Inde",
+    "budget_per_day": "20-40€",
+    "best_season": "Octobre-Février",
+    "language": "Hindi, Anglais",
+    "description": "L'Inde est un pays situé en Asie du Sud, connu pour son histoire riche, ses villes d'art et ses paysages diversifiés."
+  },
+  {
+    "type": "activite",
+    "destination": "Copenhague",
+    "activity": "Tivoli Gardens",
+    "category": "loisirs",
+    "duration": "4h",
+    "cost": "60$",
+    "description": "Le Tivoli Gardens est l'un des parcs d'attractions les plus célèbres de Copenhague, situé dans le centre de la ville."
+  },
+  {
+    "type": "destination",
+    "destination": "Russie",
+    "country": "Russie",
+    "budget_per_day": "30-60€",
+    "best_season": "Juin-Août",
+    "language": "Russe, Anglais",
+    "description": "La Russie est un pays situé en Europe de l'Est et en Asie du Nord, connu pour son histoire riche, ses villes d'art et ses paysages diversifiés."
+  },
+  {
+    "type": "activite",
+    "destination": "Dubai",
+    "activity": "Burj Khalifa",
+    "category": "architecture",
+    "duration": "2h",
+    "cost": "30$",
+    "description": "Le Burj Khalifa est l'un des bâtiments les plus hauts du monde, situé à Dubai."
+  },
+  {
+    "type": "destination",
+    "destination": "Afrique du Sud",
+    "country": "Afrique du Sud",
+    "budget_per_day": "40-80€",
+    "best_season": "Septembre-Novembre",
+    "language": "Afrikaans, Anglais",
+    "description": "L'Afrique du Sud est un pays situé en Afrique australe, connu pour ses paysages diversifiés, ses villes modernes et ses réserves de faune."
+  },
+  {
+    "type": "activite",
+    "destination": "Vienne",
+    "activity": "Palais de Schönbrunn",
+    "category": "histoire",
+    "duration": "2h",
+    "cost": "20€",
+    "description": "Le Palais de Schönbrunn est l'un des monuments les plus célèbres de Vienne, situé dans le quartier de Hietzing."
+  },
+  {
+    "type": "destination",
+    "destination": "Maroc",
+    "country": "Maroc",
+    "budget_per_day": "30-60€",
+    "best_season": "Mars-Mai",
+    "language": "Arabe, Français",
+    "description": "Découvrez les merveilles du Maroc, de Marrakech à Fez en passant par les plages de l'Atlantique."
+  },
+  {
+    "type": "activite",
+    "destination": "Tokyo",
+    "activity": "Senso-ji Temple",
+    "category": "culture",
+    "duration": "2h",
+    "cost": "gratuit",
+    "description": "Visitez le célèbre temple Senso-ji à Asakusa, l'un des symboles de Tokyo."
+  },
+  {
+    "type": "destination",
+    "destination": "Italie",
+    "country": "Italie",
+    "budget_per_day": "60-100€",
+    "best_season": "Juin-Août",
+    "language": "Italien",
+    "description": "Explorez les villes historiques d'Italie, de Rome à Florence en passant par Venise."
+  },
+  {
+    "type": "activite",
+    "destination": "Paris",
+    "activity": "Tour Eiffel",
+    "category": "tourisme",
+    "duration": "1h",
+    "cost": "17€",
+    "description": "Montez au sommet de la Tour Eiffel pour admirer la vue imprenable sur la ville lumière."
+  },
+  {
+    "type": "destination",
+    "destination": "Thaïlande",
+    "country": "Thaïlande",
+    "budget_per_day": "20-40€",
+    "best_season": "Novembre-Février",
+    "language": "Thaï",
+    "description": "Découvrez les plages de sable blanc et les îles tropicales de la Thaïlande."
+  },
+  {
+    "type": "activite",
+    "destination": "New York",
+    "activity": "Central Park",
+    "category": "nature",
+    "duration": "2h",
+    "cost": "gratuit",
+    "description": "Promenez-vous dans le célèbre Central Park, au cœur de Manhattan."
+  },
+  {
+    "type": "destination",
+    "destination": "Espagne",
+    "country": "Espagne",
+    "budget_per_day": "40-80€",
+    "best_season": "Avril-Juin",
+    "language": "Espagnol",
+    "description": "Explorez les villes vibrantes d'Espagne, de Madrid à Barcelone en passant par Séville."
+  },
+  {
+    "type": "activite",
+    "destination": "Sydney",
+    "activity": "Opéra de Sydney",
+    "category": "culture",
+    "duration": "1h",
+    "cost": "30€",
+    "description": "Visitez l'Opéra de Sydney, l'un des monuments les plus emblématiques de la ville."
+  },
+  {
+    "type": "destination",
+    "destination": "Brésil",
+    "country": "Brésil",
+    "budget_per_day": "30-60€",
+    "best_season": "Décembre-Mars",
+    "language": "Portugais",
+    "description": "Découvrez les plages de sable blanc et les forêts tropicales du Brésil."
+  },
+  {
+    "type": "activite",
+    "destination": "Londres",
+    "activity": "British Museum",
+    "category": "histoire",
+    "duration": "2h",
+    "cost": "gratuit",
+    "description": "Visitez le British Museum, l'un des musées les plus célèbres du monde."
+  },
+  {
+    "type": "destination",
+    "destination": "Chine",
+    "country": "Chine",
+    "budget_per_day": "20-40€",
+    "best_season": "Septembre-Novembre",
+    "language": "Mandarin",
+    "description": "Explorez les villes historiques de Chine, de Pékin à Shanghai en passant par Xi'an."
+  },
+  {
+    "type": "activite",
+    "destination": "Rome",
+    "activity": "Colisée",
+    "category": "histoire",
+    "duration": "1h",
+    "cost": "12€",
+    "description": "Visitez le Colisée, l'un des monuments les plus emblématiques de Rome."
+  },
+  {
+    "type": "destination",
+    "destination": "Australie",
+    "country": "Australie",
+    "budget_per_day": "60-100€",
+    "best_season": "Décembre-Février",
+    "language": "Anglais",
+    "description": "Découvrez les plages de sable blanc et les forêts tropicales de l'Australie."
+  },
+  {
+    "type": "activite",
+    "destination": "Barcelone",
+    "activity": "Park Güell",
+    "category": "art",
+    "duration": "1h",
+    "cost": "8€",
+    "description": "Visitez le Park Güell, l'un des monuments les plus emblématiques de Barcelone."
+  },
+  {
+    "type": "destination",
+    "destination": "Russie",
+    "country": "Russie",
+    "budget_per_day": "30-60€",
+    "best_season": "Juin-Août",
+    "language": "Russe",
+    "description": "Explorez les villes historiques de Russie, de Moscou à Saint-Pétersbourg."
+  },
+  {
+    "type": "activite",
+    "destination": "San Francisco",
+    "activity": "Golden Gate Bridge",
+    "category": "tourisme",
+    "duration": "1h",
+    "cost": "gratuit",
+    "description": "Promenez-vous sur le Golden Gate Bridge, l'un des symboles de San Francisco."
+  },
+  {
+    "type": "destination",
+    "destination": "Turquie",
+    "country": "Turquie",
+    "budget_per_day": "20-40€",
+    "best_season": "Avril-Juin",
+    "language": "Turc",
+    "description": "Découvrez les villes historiques de Turquie, d'Istanbul à Antalya en passant par Izmir."
+  },
+  {
+    "type": "activite",
+    "destination": "Berlin",
+    "activity": "Mur de Berlin",
+    "category": "histoire",
+    "duration": "1h",
+    "cost": "gratuit",
+    "description": "Visitez le Mur de Berlin, l'un des symboles de la ville."
+  },
+  {
+    "type": "destination",
+    "destination": "Japon",
+    "country": "Japon",
+    "budget_per_day": "40-80€",
+    "best_season": "Mars-Mai",
+    "language": "Japonais",
+    "description": "Explorez les villes vibrantes du Japon, de Tokyo à Kyoto en passant par Osaka."
+  },
+  {
+    "type": "activite",
+    "destination": "Vienne",
+    "activity": "Opéra de Vienne",
+    "category": "culture",
+    "duration": "1h",
+    "cost": "30€",
+    "description": "Visitez l'Opéra de Vienne, l'un des monuments les plus emblématiques de la ville."
+  },
+  {
+    "type": "destination",
+    "destination": "Grèce",
+    "country": "Grèce",
+    "budget_per_day": "30-60€",
+    "best_season": "Juin-Août",
+    "language": "Grec",
+    "description": "Découvrez les îles grecques, de Mykonos à Santorin en passant par la Crète."
+  },
+  {
+    "type": "activite",
+    "destination": "Copenhague",
+    "activity": "Tivoli",
+    "category": "loisirs",
+    "duration": "2h",
+    "cost": "20€",
+    "description": "Visitez le parc d'attractions Tivoli, l'un des plus anciens au monde."
+  },
+  {
+    "type": "destination",
+    "destination": "Pologne",
+    "country": "Pologne",
+    "budget_per_day": "20-40€",
+    "best_season": "Juin-Août",
+    "language": "Polonais",
+    "description": "Explorez les villes historiques de Pologne, de Varsovie à Cracovie en passant par Gdańsk."
+  },
+  {
+    "type": "activite",
+    "destination": "Amsterdam",
+    "activity": "Rijksmuseum",
+    "category": "art",
+    "duration": "2h",
+    "cost": "19€",
+    "description": "Visitez le Rijksmuseum, l'un des musées les plus célèbres du monde."
+  },
+  {
+    "type": "destination",
+    "destination": "Irlande",
+    "country": "Irlande",
+    "budget_per_day": "40-80€",
+    "best_season": "Avril-Juin",
+    "language": "Anglais, Irlandais",
+    "description": "Découvrez les paysages verdoyants et les côtes sauvages de l'Irlande."
+  },
+  {
+    "type": "activite",
+    "destination": "Stockholm",
+    "activity": "Vieux Stockholm",
+    "category": "histoire",
+    "duration": "1h",
+    "cost": "gratuit",
+    "description": "Visitez le Vieux Stockholm, l'un des quartiers les plus charmants de la ville."
+  },
+  {
+    "type": "destination",
+    "destination": "Maroc",
+    "country": "Maroc",
+    "budget_per_day": "30-60€",
+    "best_season": "Mars-Mai",
+    "language": "Arabe, Français",
+    "description": "Découvrez le charme du Maroc avec ses paysages désertiques, ses montagnes et ses villes animées."
+  },
+  {
+    "type": "activite",
+    "destination": "Tokyo",
+    "activity": "Senso-ji Temple",
+    "category": "culture",
+    "duration": "2h",
+    "cost": "gratuit",
+    "description": "Explorez le temple le plus ancien de Tokyo et découvrez son histoire et son architecture."
+  },
+  {
+    "type": "destination",
+    "destination": "Thaïlande",
+    "country": "Thaïlande",
+    "budget_per_day": "20-40€",
+    "best_season": "Novembre-Mars",
+    "language": "Thaï, Anglais",
+    "description": "Découvrez les plages de sable blanc et les eaux cristallines de la Thaïlande."
+  },
+  {
+    "type": "activite",
+    "destination": "Paris",
+    "activity": "Tour Eiffel",
+    "category": "culture",
+    "duration": "1h",
+    "cost": "17€",
+    "description": "Montez au sommet de la Tour Eiffel pour admirer la vue imprenable sur la ville."
+  },
+  {
+    "type": "destination",
+    "destination": "Italie",
+    "country": "Italie",
+    "budget_per_day": "40-80€",
+    "best_season": "Avril-Octobre",
+    "language": "Italien, Anglais",
+    "description": "Découvrez l'histoire et la culture de l'Italie à travers ses villes et ses monuments."
+  },
+  {
+    "type": "activite",
+    "destination": "New York",
+    "activity": "Central Park",
+    "category": "nature",
+    "duration": "3h",
+    "cost": "gratuit",
+    "description": "Promenez-vous dans le parc le plus grand de New York et découvrez ses jardins et ses lacs."
+  },
+  {
+    "type": "destination",
+    "destination": "Espagne",
+    "country": "Espagne",
+    "budget_per_day": "30-60€",
+    "best_season": "Mai-Octobre",
+    "language": "Espagnol, Anglais",
+    "description": "Découvrez la culture et la gastronomie espagnole à travers ses villes et ses festivals."
+  },
+  {
+    "type": "activite",
+    "destination": "Sydney",
+    "activity": "Opéra de Sydney",
+    "category": "culture",
+    "duration": "1h",
+    "cost": "30€",
+    "description": "Découvrez l'architecture unique de l'Opéra de Sydney et assistez à un spectacle."
+  },
+  {
+    "type": "destination",
+    "destination": "Chine",
+    "country": "Chine",
+    "budget_per_day": "20-40€",
+    "best_season": "Mars-Mai",
+    "language": "Mandarin, Anglais",
+    "description": "Découvrez la culture et l'histoire de la Chine à travers ses villes et ses monuments."
+  },
+  {
+    "type": "activite",
+    "destination": "Rio de Janeiro",
+    "activity": "Plage de Copacabana",
+    "category": "plage",
+    "duration": "4h",
+    "cost": "gratuit",
+    "description": "Détendez-vous sur la plage de Copacabana et découvrez la vie nocturne de Rio."
+  },
+  {
+    "type": "destination",
+    "destination": "Inde",
+    "country": "Inde",
+    "budget_per_day": "15-30€",
+    "best_season": "Octobre-Mars",
+    "language": "Hindi, Anglais",
+    "description": "Découvrez la culture et la spiritualité de l'Inde à travers ses villes et ses temples."
+  },
+  {
+    "type": "activite",
+    "destination": "Los Angeles",
+    "activity": "Hollywood",
+    "category": "culture",
+    "duration": "2h",
+    "cost": "20€",
+    "description": "Découvrez l'histoire du cinéma à Hollywood et visitez les studios de tournage."
+  },
+  {
+    "type": "destination",
+    "destination": "Afrique du Sud",
+    "country": "Afrique du Sud",
+    "budget_per_day": "30-60€",
+    "best_season": "Septembre-Mars",
+    "language": "Afrikaans, Anglais",
+    "description": "Découvrez la faune et la flore de l'Afrique du Sud à travers ses parcs nationaux et ses réserves de gibier."
+  },
+  {
+    "type": "activite",
+    "destination": "Barcelone",
+    "activity": "Park Güell",
+    "category": "culture",
+    "duration": "1h",
+    "cost": "10€",
+    "description": "Découvrez l'architecture unique du Park Güell et les œuvres d'Antoni Gaudí."
+  },
+  {
+    "type": "destination",
+    "destination": "Grèce",
+    "country": "Grèce",
+    "budget_per_day": "25-50€",
+    "best_season": "Avril-Octobre",
+    "language": "Grec, Anglais",
+    "description": "Découvrez l'histoire et la culture de la Grèce à travers ses îles et ses monuments."
+  },
+  {
+    "type": "activite",
+    "destination": "San Francisco",
+    "activity": "Golden Gate Bridge",
+    "category": "nature",
+    "duration": "2h",
+    "cost": "gratuit",
+    "description": "Découvrez le pont le plus célèbre du monde et la vue imprenable sur la baie de San Francisco."
+  },
+  {
+    "type": "destination",
+    "destination": "Brésil",
+    "country": "Brésil",
+    "budget_per_day": "20-40€",
+    "best_season": "Décembre-Mars",
+    "language": "Portugais, Anglais",
+    "description": "Découvrez la culture et la musique du Brésil à travers ses villes et ses festivals."
+  },
+  {
+    "type": "activite",
+    "destination": "Copenhague",
+    "activity": "Tivoli",
+    "category": "loisirs",
+    "duration": "4h",
+    "cost": "30€",
+    "description": "Découvrez le parc d'attractions le plus ancien du monde et ses manèges emblématiques."
+  },
+  {
+    "type": "destination",
+    "destination": "Turquie",
+    "country": "Turquie",
+    "budget_per_day": "25-50€",
+    "best_season": "Avril-Octobre",
+    "language": "Turc, Anglais",
+    "description": "Découvrez l'histoire et la culture de la Turquie à travers ses villes et ses monuments."
+  },
+  {
+    "type": "activite",
+    "destination": "Vienne",
+    "activity": "Palais de Schönbrunn",
+    "category": "culture",
+    "duration": "2h",
+    "cost": "20€",
+    "description": "Découvrez l'histoire et l'architecture du palais de Schönbrunn et ses jardins."
+  },
+  {
+    "type": "destination",
+    "destination": "Russie",
+    "country": "Russie",
+    "budget_per_day": "30-60€",
+    "best_season": "Juin-Août",
+    "language": "Russe, Anglais",
+    "description": "Découvrez l'histoire et la culture de la Russie à travers ses villes et ses monuments."
+  },
+  {
+    "type": "activite",
+    "destination": "Dubai",
+    "activity": "Burj Khalifa",
+    "category": "culture",
+    "duration": "1h",
+    "cost": "30€",
+    "description": "Découvrez l'architecture unique du Burj Khalifa et la vue imprenable sur la ville."
+  },
+  {
+    "type": "destination",
+    "destination": "Mexique",
+    "country": "Mexique",
+    "budget_per_day": "20-40€",
+    "best_season": "Décembre-Mars",
+    "language": "Espagnol, Anglais",
+    "description": "Découvrez la culture et la gastronomie mexicaine à travers ses villes et ses plages."
+  },
+  {
+    "type": "activite",
+    "destination": "Londres",
+    "activity": "British Museum",
+    "category": "culture",
+    "duration": "2h",
+    "cost": "gratuit",
+    "description": "Découvrez l'histoire et la culture du monde à travers les collections du British Museum."
+  },
+  {
+    "type": "destination",
+    "destination": "Maroc",
+    "country": "Maroc",
+    "budget_per_day": "30-60€",
+    "best_season": "Mars-Mai",
+    "language": "Arabe, Français",
+    "description": "Découvrez le Maroc, un pays aux mille couleurs et aux paysages époustouflants."
+  },
+  {
+    "type": "activite",
+    "destination": "Tokyo",
+    "activity": "Senso-ji Temple",
+    "category": "culture",
+    "duration": "2h",
+    "cost": "gratuit",
+    "description": "Visitez le célèbre temple Senso-ji, symbole de la ville de Tokyo."
+  },
+  {
+    "type": "destination",
+    "destination": "Italie",
+    "country": "Italie",
+    "budget_per_day": "60-100€",
+    "best_season": "Juin-Août",
+    "language": "Italien",
+    "description": "L'Italie, berceau de l'art et de la culture, vous attend."
+  },
+  {
+    "type": "activite",
+    "destination": "Paris",
+    "activity": "Tour Eiffel",
+    "category": "histoire",
+    "duration": "1h",
+    "cost": "17€",
+    "description": "Montez au sommet de la Tour Eiffel pour admirer la vue imprenable sur la ville."
+  },
+  {
+    "type": "destination",
+    "destination": "Thaïlande",
+    "country": "Thaïlande",
+    "budget_per_day": "20-40€",
+    "best_season": "Novembre-Mars",
+    "language": "Thaï",
+    "description": "La Thaïlande, un pays de rêve avec ses plages de sable blanc et ses eaux cristallines."
+  },
+  {
+    "type": "activite",
+    "destination": "New York",
+    "activity": "Central Park",
+    "category": "nature",
+    "duration": "3h",
+    "cost": "gratuit",
+    "description": "Promenez-vous dans le magnifique Central Park, au cœur de Manhattan."
+  },
+  {
+    "type": "destination",
+    "destination": "Espagne",
+    "country": "Espagne",
+    "budget_per_day": "40-80€",
+    "best_season": "Avril-Juin",
+    "language": "Espagnol",
+    "description": "L'Espagne, un pays de passion et de fiesta, vous attend."
+  },
+  {
+    "type": "activite",
+    "destination": "Sydney",
+    "activity": "Opéra de Sydney",
+    "category": "culture",
+    "duration": "2h",
+    "cost": "50€",
+    "description": "Assistez à un spectacle à l'Opéra de Sydney, l'un des plus beaux au monde."
+  },
+  {
+    "type": "destination",
+    "destination": "Chine",
+    "country": "Chine",
+    "budget_per_day": "30-60€",
+    "best_season": "Septembre-Novembre",
+    "language": "Mandarin",
+    "description": "La Chine, un pays aux mille visages, vous attend."
+  },
+  {
+    "type": "activite",
+    "destination": "Londres",
+    "activity": "British Museum",
+    "category": "histoire",
+    "duration": "3h",
+    "cost": "gratuit",
+    "description": "Découvrez les trésors du British Museum, l'un des plus grands musées du monde."
+  },
+  {
+    "type": "destination",
+    "destination": "Brésil",
+    "country": "Brésil",
+    "budget_per_day": "40-80€",
+    "best_season": "Décembre-Février",
+    "language": "Portugais",
+    "description": "Le Brésil, un pays de samba et de football, vous attend."
+  },
+  {
+    "type": "activite",
+    "destination": "Barcelone",
+    "activity": "Park Güell",
+    "category": "architecture",
+    "duration": "2h",
+    "cost": "10€",
+    "description": "Visitez le célèbre Park Güell, créé par Antoni Gaudí."
+  },
+  {
+    "type": "destination",
+    "destination": "Russie",
+    "country": "Russie",
+    "budget_per_day": "30-60€",
+    "best_season": "Juin-Août",
+    "language": "Russe",
+    "description": "La Russie, un pays de grandeur et de mystère, vous attend."
+  },
+  {
+    "type": "activite",
+    "destination": "Rome",
+    "activity": "Colisée",
+    "category": "histoire",
+    "duration": "2h",
+    "cost": "12€",
+    "description": "Visitez le célèbre Colisée, symbole de la Rome antique."
+  },
+  {
+    "type": "destination",
+    "destination": "Grèce",
+    "country": "Grèce",
+    "budget_per_day": "40-80€",
+    "best_season": "Juin-Août",
+    "language": "Grec",
+    "description": "La Grèce, un pays de mythes et de légendes, vous attend."
+  },
+  {
+    "type": "activite",
+    "destination": "Copenhague",
+    "activity": "Tivoli Gardens",
+    "category": "loisirs",
+    "duration": "4h",
+    "cost": "50€",
+    "description": "Visitez le célèbre parc d'attractions Tivoli Gardens, à Copenhague."
+  },
+  {
+    "type": "destination",
+    "destination": "Turquie",
+    "country": "Turquie",
+    "budget_per_day": "30-60€",
+    "best_season": "Avril-Juin",
+    "language": "Turc",
+    "description": "La Turquie, un pays de contrastes, vous attend."
+  },
+  {
+    "type": "activite",
+    "destination": "Vienne",
+    "activity": "Palais de Schönbrunn",
+    "category": "histoire",
+    "duration": "3h",
+    "cost": "20€",
+    "description": "Visitez le magnifique Palais de Schönbrunn, à Vienne."
+  },
+  {
+    "type": "destination",
+    "destination": "Pologne",
+    "country": "Pologne",
+    "budget_per_day": "20-40€",
+    "best_season": "Juin-Août",
+    "language": "Polonais",
+    "description": "La Pologne, un pays d'histoire et de culture, vous attend."
+  },
+  {
+    "type": "activite",
+    "destination": "Amsterdam",
+    "activity": "Rijksmuseum",
+    "category": "art",
+    "duration": "3h",
+    "cost": "19€",
+    "description": "Découvrez les trésors du Rijksmuseum, à Amsterdam."
+  },
+  {
+    "type": "destination",
+    "destination": "Hongrie",
+    "country": "Hongrie",
+    "budget_per_day": "30-60€",
+    "best_season": "Juin-Août",
+    "language": "Hongrois",
+    "description": "La Hongrie, un pays de thermalisme et de culture, vous attend."
+  },
+  {
+    "type": "activite",
+    "destination": "Berlin",
+    "activity": "Mur de Berlin",
+    "category": "histoire",
+    "duration": "2h",
+    "cost": "gratuit",
+    "description": "Visitez le célèbre Mur de Berlin, symbole de la division et de la réunification de l'Allemagne."
+  },
+  {
+    "type": "destination",
+    "destination": "Irlande",
+    "country": "Irlande",
+    "budget_per_day": "40-80€",
+    "best_season": "Juin-Août",
+    "language": "Anglais, Irlandais",
+    "description": "L'Irlande, un pays de légendes et de paysages époustouflants, vous attend."
+  },
+  {
+    "type": "activite",
+    "destination": "Prague",
+    "activity": "Charles Bridge",
+    "category": "architecture",
+    "duration": "2h",
+    "cost": "gratuit",
+    "description": "Promenez-vous sur le célèbre Charles Bridge, à Prague."
+  },
+  {
+    "type": "destination",
+    "destination": "Maroc",
+    "country": "Maroc",
+    "budget_per_day": "30-60€",
+    "best_season": "Mars-Mai",
+    "language": "Arabe, Français",
+    "description": "Découvrez les merveilles du Maroc, un pays aux mille et une nuits."
+  },
+  {
+    "type": "activite",
+    "destination": "Tokyo",
+    "activity": "Senso-ji Temple",
+    "category": "culture",
+    "duration": "2h",
+    "cost": "gratuit",
+    "description": "Visitez le célèbre temple de Senso-ji, un symbole de la culture japonaise."
+  },
+  {
+    "type": "destination",
+    "destination": "Thailande",
+    "country": "Thailande",
+    "budget_per_day": "20-40€",
+    "best_season": "Novembre-Février",
+    "language": "Thaï, Anglais",
+    "description": "Explorez les plages de sable blanc et les eaux cristallines de la Thailande."
+  },
+  {
+    "type": "activite",
+    "destination": "Paris",
+    "activity": "Tour Eiffel",
+    "category": "culture",
+    "duration": "1h",
+    "cost": "17€",
+    "description": "Montez au sommet de la Tour Eiffel pour admirer la vue imprenable sur la ville lumière."
+  },
+  {
+    "type": "destination",
+    "destination": "Italie",
+    "country": "Italie",
+    "budget_per_day": "40-80€",
+    "best_season": "Juin-Août",
+    "language": "Italien, Anglais",
+    "description": "Découvrez les trésors artistiques et historiques de l'Italie, de Rome à Florence."
+  },
+  {
+    "type": "activite",
+    "destination": "New York",
+    "activity": "Statue de la Liberté",
+    "category": "culture",
+    "duration": "2h",
+    "cost": "21,50$",
+    "description": "Visitez l'emblématique Statue de la Liberté, un symbole de la liberté et de la démocratie."
+  },
+  {
+    "type": "destination",
+    "destination": "Espagne",
+    "country": "Espagne",
+    "budget_per_day": "30-60€",
+    "best_season": "Mars-Mai",
+    "language": "Espagnol, Anglais",
+    "description": "Explorez les villes vibrantes et les plages ensoleillées de l'Espagne, de Madrid à Barcelone."
+  },
+  {
+    "type": "activite",
+    "destination": "Sydney",
+    "activity": "Opéra de Sydney",
+    "category": "culture",
+    "duration": "1h",
+    "cost": "37$",
+    "description": "Visitez l'Opéra de Sydney, un chef-d'œuvre d'architecture moderne."
+  },
+  {
+    "type": "destination",
+    "destination": "Grèce",
+    "country": "Grèce",
+    "budget_per_day": "25-50€",
+    "best_season": "Juin-Août",
+    "language": "Grec, Anglais",
+    "description": "Découvrez les îles grecques et leurs plages de sable blanc, ainsi que les ruines antiques d'Athènes."
+  },
+  {
+    "type": "activite",
+    "destination": "Rio de Janeiro",
+    "activity": "Carnaval de Rio",
+    "category": "fête",
+    "duration": "5j",
+    "cost": "500$",
+    "description": "Participez au Carnaval de Rio, l'un des plus grands et des plus colorés du monde."
+  },
+  {
+    "type": "destination",
+    "destination": "Chine",
+    "country": "Chine",
+    "budget_per_day": "20-40€",
+    "best_season": "Mars-Mai",
+    "language": "Mandarin, Anglais",
+    "description": "Explorez les merveilles de la Chine, de la Grande Muraille à la ville de Shanghai."
+  },
+  {
+    "type": "activite",
+    "destination": "Copenhague",
+    "activity": "Tivoli Gardens",
+    "category": "parc d'attractions",
+    "duration": "1j",
+    "cost": "60$",
+    "description": "Visitez le parc d'attractions Tivoli Gardens, l'un des plus anciens et des plus charmants du monde."
+  },
+  {
+    "type": "destination",
+    "destination": "Russie",
+    "country": "Russie",
+    "budget_per_day": "30-60€",
+    "best_season": "Juin-Août",
+    "language": "Russe, Anglais",
+    "description": "Découvrez les trésors culturels et historiques de la Russie, de Moscou à Saint-Pétersbourg."
+  },
+  {
+    "type": "activite",
+    "destination": "Las Vegas",
+    "activity": "Casino Bellagio",
+    "category": "jeu",
+    "duration": "2h",
+    "cost": "gratuit",
+    "description": "Visitez le célèbre casino Bellagio, connu pour ses fontaines de feu et ses jeux de hasard."
+  },
+  {
+    "type": "destination",
+    "destination": "Brésil",
+    "country": "Brésil",
+    "budget_per_day": "25-50€",
+    "best_season": "Décembre-Mars",
+    "language": "Portugais, Anglais",
+    "description": "Explorez les plages ensoleillées et les forêts tropicales du Brésil, de Rio à São Paulo."
+  },
+  {
+    "type": "activite",
+    "destination": "Dubai",
+    "activity": "Burj Khalifa",
+    "category": "architecture",
+    "duration": "1h",
+    "cost": "30$",
+    "description": "Visitez le Burj Khalifa, le plus haut immeuble du monde."
+  },
+  {
+    "type": "destination",
+    "destination": "Australie",
+    "country": "Australie",
+    "budget_per_day": "40-80€",
+    "best_season": "Décembre-Février",
+    "language": "Anglais",
+    "description": "Découvrez les plages de sable blanc et les paysages uniques de l'Australie, de Sydney à Melbourne."
+  },
+  {
+    "type": "activite",
+    "destination": "Londres",
+    "activity": "British Museum",
+    "category": "culture",
+    "duration": "2h",
+    "cost": "gratuit",
+    "description": "Visitez le British Museum, l'un des plus grands et des plus importants musées du monde."
+  },
+  {
+    "type": "destination",
+    "destination": "Inde",
+    "country": "Inde",
+    "budget_per_day": "15-30€",
+    "best_season": "Octobre-Mars",
+    "language": "Hindi, Anglais",
+    "description": "Explorez les villes vibrantes et les paysages variés de l'Inde, de Delhi à Mumbai."
+  },
+  {
+    "type": "activite",
+    "destination": "Barcelone",
+    "activity": "Park Güell",
+    "category": "architecture",
+    "duration": "1h",
+    "cost": "8€",
+    "description": "Visitez le Park Güell, un parc public conçu par Antoni Gaudí."
+  },
+  {
+    "type": "destination",
+    "destination": "États-Unis",
+    "country": "États-Unis",
+    "budget_per_day": "40-80€",
+    "best_season": "Juin-Août",
+    "language": "Anglais",
+    "description": "Découvrez les villes vibrantes et les paysages variés des États-Unis, de New York à Los Angeles."
+  },
+  {
+    "type": "activite",
+    "destination": "Pékin",
+    "activity": "Grande Muraille de Chine",
+    "category": "histoire",
+    "duration": "2h",
+    "cost": "10$",
+    "description": "Visitez la Grande Muraille de Chine, l'une des Sept Merveilles du Monde."
+  },
+  {
+    "type": "destination",
+    "destination": "Canada",
+    "country": "Canada",
+    "budget_per_day": "30-60€",
+    "best_season": "Juin-Août",
+    "language": "Français, Anglais",
+    "description": "Explorez les paysages variés et les villes vibrantes du Canada, de Montréal à Vancouver."
+  },
+  {
+    "type": "activite",
+    "destination": "Rome",
+    "activity": "Colisée",
+    "category": "histoire",
+    "duration": "1h",
+    "cost": "12€",
+    "description": "Visitez le Colisée, un des plus célèbres monuments de l'Antiquité romaine."
+  },
+  {
+    "type": "destination",
+    "destination": "Maroc",
+    "country": "Maroc",
+    "budget_per_day": "30-60€",
+    "best_season": "Mars-Mai",
+    "language": "Arabe, Français",
+    "description": "Découvrez les paysages époustouflants du Maroc, des déserts aux montagnes en passant par les villes vibrantes."
+  },
+  {
+    "type": "activite",
+    "destination": "Tokyo",
+    "activity": "Senso-ji Temple",
+    "category": "culture",
+    "duration": "2h",
+    "cost": "gratuit",
+    "description": "Explorez le temple le plus ancien et le plus emblématique de Tokyo, célèbre pour son gigantesque lanterne rouge."
+  },
+  {
+    "type": "destination",
+    "destination": "Italie",
+    "country": "Italie",
+    "budget_per_day": "60-100€",
+    "best_season": "Juin-Août",
+    "language": "Italien",
+    "description": "L'Italie, terre de la Renaissance, du soleil méditerranéen et d'une gastronomie divine."
+  },
+  {
+    "type": "activite",
+    "destination": "New York",
+    "activity": "Statue de la Liberté",
+    "category": "histoire",
+    "duration": "3h",
+    "cost": "25$",
+    "description": "Visitez l'un des symboles les plus emblématiques des États-Unis, offrant une vue imprenable sur Manhattan."
+  },
+  {
+    "type": "destination",
+    "destination": "Thaïlande",
+    "country": "Thaïlande",
+    "budget_per_day": "20-40€",
+    "best_season": "Novembre-Février",
+    "language": "Thaï",
+    "description": "Plongez dans les eaux cristallines, les plages de sable blanc et la culture riche de la Thaïlande."
+  },
+  {
+    "type": "activite",
+    "destination": "Paris",
+    "activity": "Tour Eiffel",
+    "category": "architecture",
+    "duration": "1h30",
+    "cost": "17€",
+    "description": "Montez au sommet de la Tour Eiffel pour une vue à couper le souffle sur la Ville Lumière."
+  },
+  {
+    "type": "destination",
+    "destination": "Australie",
+    "country": "Australie",
+    "budget_per_day": "80-150€",
+    "best_season": "Décembre-Février",
+    "language": "Anglais",
+    "description": "Découvrez les plages inoubliables, les forêts tropicales et les villes cosmopolites de l'Australie."
+  },
+  {
+    "type": "activite",
+    "destination": "Rio de Janeiro",
+    "activity": "Carnaval de Rio",
+    "category": "fête",
+    "duration": "5 jours",
+    "cost": "variable",
+    "description": "Vivez l'énergie débordante et la joie du Carnaval de Rio, l'un des plus grands festivals du monde."
+  },
+  {
+    "type": "destination",
+    "destination": "Espagne",
+    "country": "Espagne",
+    "budget_per_day": "40-80€",
+    "best_season": "Avril-Juin",
+    "language": "Espagnol",
+    "description": "Explorez les villes vibrantes, les plages méditerranéennes et la riche histoire de l'Espagne."
+  },
+  {
+    "type": "activite",
+    "destination": "Copenhague",
+    "activity": "Tivoli Gardens",
+    "category": "parc d'attractions",
+    "duration": "4h",
+    "cost": "60DKK",
+    "description": "Visitez le plus ancien parc d'attractions du monde, offrant un mélange unique de charme d'époque et de technologies modernes."
+  },
+  {
+    "type": "destination",
+    "destination": "Chine",
+    "country": "Chine",
+    "budget_per_day": "30-60€",
+    "best_season": "Mars-Mai",
+    "language": "Mandarin",
+    "description": "Découvrez la Grande Muraille, les pandas géants et la cuisine variée de la Chine, un pays aux contrastes saisissants."
+  },
+  {
+    "type": "activite",
+    "destination": "Sydney",
+    "activity": "Opéra de Sydney",
+    "category": "culture",
+    "duration": "1h30",
+    "cost": "30AUD",
+    "description": "Admirez l'architecture iconique de l'Opéra de Sydney et profitez d'une représentation artistique de haute qualité."
+  },
+  {
+    "type": "destination",
+    "destination": "Brésil",
+    "country": "Brésil",
+    "budget_per_day": "40-80€",
+    "best_season": "Décembre-Février",
+    "language": "Portugais",
+    "description": "Immergez-vous dans la samba, les plages de sable blanc et la forêt amazonienne du Brésil, un pays aux rythmes endiablés."
+  },
+  {
+    "type": "activite",
+    "destination": "Vienne",
+    "activity": "Palais de Schönbrunn",
+    "category": "histoire",
+    "duration": "3h",
+    "cost": "20€",
+    "description": "Visitez le majestueux Palais de Schönbrunn, symbole de l'opulence de l'Empire autrichien."
+  },
+  {
+    "type": "destination",
+    "destination": "Japon",
+    "country": "Japon",
+    "budget_per_day": "50-100€",
+    "best_season": "Mars-Mai",
+    "language": "Japonais",
+    "description": "Découvrez les temples anciens, les jardins zen et la technologie de pointe du Japon, un pays aux contrastes fascinants."
+  },
+  {
+    "type": "activite",
+    "destination": "Barcelone",
+    "activity": "Park Güell",
+    "category": "architecture",
+    "duration": "2h",
+    "cost": "10€",
+    "description": "Explorez le parc Güell, un chef-d'œuvre de Gaudí, avec ses bancs en mosaïque et ses vues sur la ville."
+  },
+  {
+    "type": "destination",
+    "destination": "Grèce",
+    "country": "Grèce",
+    "budget_per_day": "40-80€",
+    "best_season": "Juin-Août",
+    "language": "Grec",
+    "description": "Plongez dans l'histoire antique, les îles paradisiaques et la cuisine méditerranéenne de la Grèce."
+  },
+  {
+    "type": "activite",
+    "destination": "Londres",
+    "activity": "British Museum",
+    "category": "musée",
+    "duration": "3h",
+    "cost": "gratuit",
+    "description": "Découvrez les trésors de l'histoire mondiale au British Museum, l'un des musées les plus célèbres du monde."
+  },
+  {
+    "type": "destination",
+    "destination": "Inde",
+    "country": "Inde",
+    "budget_per_day": "20-40€",
+    "best_season": "Octobre-Février",
+    "language": "Hindi, Anglais",
+    "description": "Immergez-vous dans les couleurs, les saveurs et les sons de l'Inde, un pays aux expériences inoubliables."
+  },
+  {
+    "type": "activite",
+    "destination": "Dubai",
+    "activity": "Burj Khalifa",
+    "category": "architecture",
+    "duration": "1h30",
+    "cost": "125AED",
+    "description": "Montez au sommet du Burj Khalifa, le plus haut bâtiment du monde, pour une vue à couper le souffle sur Dubai."
+  },
+  {
+    "type": "destination",
+    "destination": "Russie",
+    "country": "Russie",
+    "budget_per_day": "30-60€",
+    "best_season": "Juin-Août",
+    "language": "Russe",
+    "description": "Découvrez les palais impériaux, les églises orthodoxes et la vie nocturne de la Russie, un pays aux dimensions gigantesques."
+  },
+  {
+    "type": "activite",
+    "destination": "Rome",
+    "activity": "Colisée",
+    "category": "histoire",
+    "duration": "2h",
+    "cost": "12€",
+    "description": "Visitez le Colisée, l'un des symboles les plus emblématiques de la Rome antique."
+  },
+  {
+    "type": "destination",
+    "destination": "Canada",
+    "country": "Canada",
+    "budget_per_day": "60-120€",
+    "best_season": "Juin-Août",
+    "language": "Français, Anglais",
+    "description": "Explorez les forêts luxuriantes, les montagnes majestueuses et les villes cosmopolites du Canada, un pays aux paysages époustouflants."
+  },
+  {
+    "type": "activite",
+    "destination": "Berlin",
+    "activity": "Mur de Berlin",
+    "category": "histoire",
+    "duration": "2h",
+    "cost": "gratuit",
+    "description": "Découvrez l'histoire récente de l'Allemagne en visitant le Mur de Berlin, un symbole de la division et de la réunification."
+  },
+  {
+    "type": "destination",
+    "destination": "Afrique du Sud",
+    "country": "Afrique du Sud",
+    "budget_per_day": "40-80€",
+    "best_season": "Septembre-Novembre",
+    "language": "Afrikaans, Anglais",
+    "description": "Découvrez les paysages sauvages, les réserves naturelles et les villes vibrantes de l'Afrique du Sud, un pays aux contrasts saisissants."
+  },
+  {
+    "type": "destination",
+    "destination": "Maroc",
+    "country": "Maroc",
+    "budget_per_day": "30-60€",
+    "best_season": "Mars-Mai",
+    "language": "Arabe, Français",
+    "description": "Découvrez le charme du Maroc avec ses paysages désertiques, ses villes vibrantes et ses plages ensoleillées."
+  },
+  {
+    "type": "activite",
+    "destination": "Tokyo",
+    "activity": "Senso-ji Temple",
+    "category": "culture",
+    "duration": "2h",
+    "cost": "gratuit",
+    "description": "Explorez le temple Senso-ji, l'un des plus anciens et des plus emblématiques de Tokyo, et découvrez son histoire et sa signification culturelle."
+  },
+  {
+    "type": "destination",
+    "destination": "Thaïlande",
+    "country": "Thaïlande",
+    "budget_per_day": "20-40€",
+    "best_season": "Décembre-Février",
+    "language": "Thaï, Anglais",
+    "description": "La Thaïlande est un pays de rizières vertes, de plages de sable blanc et de temples bouddhistes majestueux, où la cuisine est délicieuse et les gens sont accueillants."
+  },
+  {
+    "type": "activite",
+    "destination": "Paris",
+    "activity": "Tour Eiffel",
+    "category": "culture",
+    "duration": "1h",
+    "cost": "17€",
+    "description": "Montez au sommet de la Tour Eiffel pour admirer la vue imprenable sur la ville lumière et découvrir son histoire fascinante."
+  },
+  {
+    "type": "destination",
+    "destination": "Italie",
+    "country": "Italie",
+    "budget_per_day": "40-80€",
+    "best_season": "Juin-Août",
+    "language": "Italien, Anglais",
+    "description": "L'Italie est un pays de passion, d'art, d'histoire et de cuisine délicieuse, où vous pouvez découvrir des villes comme Rome, Florence et Venise."
+  },
+  {
+    "type": "activite",
+    "destination": "New York",
+    "activity": "Central Park",
+    "category": "nature",
+    "duration": "3h",
+    "cost": "gratuit",
+    "description": "Promenez-vous dans le magnifique Central Park, un oasis de verdure au cœur de Manhattan, et découvrez ses nombreux monuments et attractions."
+  },
+  {
+    "type": "destination",
+    "destination": "Espagne",
+    "country": "Espagne",
+    "budget_per_day": "30-60€",
+    "best_season": "Mai-Juillet",
+    "language": "Espagnol, Catalan",
+    "description": "L'Espagne est un pays de fiestas, de plages ensoleillées et de villes vibrantes comme Madrid, Barcelone et Séville."
+  },
+  {
+    "type": "activite",
+    "destination": "Sydney",
+    "activity": "Opéra de Sydney",
+    "category": "culture",
+    "duration": "2h",
+    "cost": "30€",
+    "description": "Découvrez l'Opéra de Sydney, l'un des bâtiments les plus emblématiques du monde, et assistez à un spectacle ou une visite guidée."
+  },
+  {
+    "type": "destination",
+    "destination": "Brésil",
+    "country": "Brésil",
+    "budget_per_day": "25-50€",
+    "best_season": "Décembre-Mars",
+    "language": "Portugais, Anglais",
+    "description": "Le Brésil est un pays de samba, de football et de plages ensoleillées, où vous pouvez découvrir des villes comme Rio de Janeiro et São Paulo."
+  },
+  {
+    "type": "activite",
+    "destination": "Bangkok",
+    "activity": "Marché flottant de Damnoen Saduak",
+    "category": "culture",
+    "duration": "4h",
+    "cost": "20€",
+    "description": "Explorez le marché flottant de Damnoen Saduak, un endroit unique où les vendeurs vendent leurs marchandises depuis des bateaux."
+  },
+  {
+    "type": "destination",
+    "destination": "Chine",
+    "country": "Chine",
+    "budget_per_day": "20-40€",
+    "best_season": "Mars-Mai",
+    "language": "Mandarin, Anglais",
+    "description": "La Chine est un pays de longue histoire, de paysages époustouflants et de villes modernes comme Pékin et Shanghai."
+  },
+  {
+    "type": "activite",
+    "destination": "Londres",
+    "activity": "British Museum",
+    "category": "culture",
+    "duration": "3h",
+    "cost": "gratuit",
+    "description": "Découvrez le British Museum, l'un des plus grands musées du monde, qui abrite une collection impressionnante d'objets historiques et culturels."
+  },
+  {
+    "type": "destination",
+    "destination": "Inde",
+    "country": "Inde",
+    "budget_per_day": "15-30€",
+    "best_season": "Octobre-Février",
+    "language": "Hindi, Anglais",
+    "description": "L'Inde est un pays de diversité, de couleurs et de saveurs, où vous pouvez découvrir des villes comme Delhi, Bombay et Calcutta."
+  },
+  {
+    "type": "activite",
+    "destination": "San Francisco",
+    "activity": "Golden Gate Bridge",
+    "category": "nature",
+    "duration": "2h",
+    "cost": "gratuit",
+    "description": "Promenez-vous sur le Golden Gate Bridge, un symbole de San Francisco, et admirez la vue imprenable sur la baie."
+  },
+  {
+    "type": "destination",
+    "destination": "Russie",
+    "country": "Russie",
+    "budget_per_day": "25-50€",
+    "best_season": "Juin-Août",
+    "language": "Russe, Anglais",
+    "description": "La Russie est un pays de grande histoire, de paysages époustouflants et de villes comme Moscou et Saint-Pétersbourg."
+  },
+  {
+    "type": "activite",
+    "destination": "Cairo",
+    "activity": "Pyramides de Gizeh",
+    "category": "culture",
+    "duration": "3h",
+    "cost": "20€",
+    "description": "Découvrez les pyramides de Gizeh, l'une des sept merveilles du monde antique, et explorez le plateau de Gizeh."
+  },
+  {
+    "type": "destination",
+    "destination": "Afrique du Sud",
+    "country": "Afrique du Sud",
+    "budget_per_day": "30-60€",
+    "best_season": "Septembre-Novembre",
+    "language": "Afrikaans, Anglais",
+    "description": "L'Afrique du Sud est un pays de diversité, de paysages époustouflants et de villes comme Le Cap et Johannesburg."
+  },
+  {
+    "type": "activite",
+    "destination": "Rome",
+    "activity": "Colisée",
+    "category": "culture",
+    "duration": "2h",
+    "cost": "12€",
+    "description": "Découvrez le Colisée, l'un des monuments les plus emblématiques de Rome, et explorez son histoire et sa signification culturelle."
+  },
+  {
+    "type": "destination",
+    "destination": "Australie",
+    "country": "Australie",
+    "budget_per_day": "40-80€",
+    "best_season": "Décembre-Février",
+    "language": "Anglais",
+    "description": "L'Australie est un pays de paysages époustouflants, de plages ensoleillées et de villes comme Sydney et Melbourne."
+  },
+  {
+    "type": "activite",
+    "destination": "Barcelone",
+    "activity": "Park Güell",
+    "category": "nature",
+    "duration": "2h",
+    "cost": "10€",
+    "description": "Explorez le Park Güell, un espace public conçu par Antoni Gaudí, et découvrez ses architectures et ses jardins uniques."
+  },
+  {
+    "type": "destination",
+    "destination": "Grèce",
+    "country": "Grèce",
+    "budget_per_day": "30-60€",
+    "best_season": "Juin-Août",
+    "language": "Grec, Anglais",
+    "description": "La Grèce est un pays de mythologie, de paysages époustouflants et de villes comme Athènes et Mykonos."
+  },
+  {
+    "type": "activite",
+    "destination": "Vienne",
+    "activity": "Palais de Schönbrunn",
+    "category": "culture",
+    "duration": "3h",
+    "cost": "20€",
+    "description": "Découvrez le palais de Schönbrunn, un symbole de la monarchie autrichienne, et explorez ses jardins et ses salles."
+  },
+  {
+    "type": "destination",
+    "destination": "Turquie",
+    "country": "Turquie",
+    "budget_per_day": "25-50€",
+    "best_season": "Mai-Septembre",
+    "language": "Turc, Anglais",
+    "description": "La Turquie est un pays de diversité, de paysages époustouflants et de villes comme Istanbul et Antalya."
+  },
+  {
+    "type": "activite",
+    "destination": "Dubai",
+    "activity": "Burj Khalifa",
+    "category": "culture",
+    "duration": "2h",
+    "cost": "30€",
+    "description": "Découvrez le Burj Khalifa, le plus haut bâtiment du monde, et admirez la vue imprenable sur la ville."
+  }
+]
