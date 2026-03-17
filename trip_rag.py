@@ -28,8 +28,8 @@ fichier = load_data('travel_data.json')
 
 # CONNEXION A QDRANT ET CREATION DE LA COLLECTION:
 
-
-qd_client = QdrantClient('http://localhost:6333')
+qdrant_host = os.getenv("QDRANT_HOST", "localhost")
+qd_client = QdrantClient(f'http://{qdrant_host}:6333')
 model_handle = "jinaai/jina-embeddings-v2-small-en"
 EMBEDDING_DIM = 512
 collection_name = "travel_assistant"
